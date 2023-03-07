@@ -1,0 +1,17 @@
+D:\Unik\SoftwareDesign\lab_02\bin\Debug\net7.0\lab_02.exe
+D:\Unik\SoftwareDesign\lab_02\bin\Debug\net7.0\lab_02.deps.json
+D:\Unik\SoftwareDesign\lab_02\bin\Debug\net7.0\lab_02.runtimeconfig.json
+D:\Unik\SoftwareDesign\lab_02\bin\Debug\net7.0\lab_02.dll
+D:\Unik\SoftwareDesign\lab_02\bin\Debug\net7.0\lab_02.pdb
+D:\Unik\SoftwareDesign\lab_02\obj\Debug\net7.0\lab_02.csproj.AssemblyReference.cache
+D:\Unik\SoftwareDesign\lab_02\obj\Debug\net7.0\lab_02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unik\SoftwareDesign\lab_02\obj\Debug\net7.0\lab_02.AssemblyInfoInputs.cache
+D:\Unik\SoftwareDesign\lab_02\obj\Debug\net7.0\lab_02.AssemblyInfo.cs
+D:\Unik\SoftwareDesign\lab_02\obj\Debug\net7.0\lab_02.csproj.CoreCompileInputs.cache
+D:\Unik\SoftwareDesign\lab_02\obj\Debug\net7.0\lab_02.dll
+D:\Unik\SoftwareDesign\lab_02\obj\Debug\net7.0\refint\lab_02.dll
+D:\Unik\SoftwareDesign\lab_02\obj\Debug\net7.0\lab_02.pdb
+D:\Unik\SoftwareDesign\lab_02\obj\Debug\net7.0\lab_02.genruntimeconfig.cache
+D:\Unik\SoftwareDesign\lab_02\obj\Debug\net7.0\ref\lab_02.dll
+D:\Unik\SoftwareDesign\lab_02\bin\Debug\net7.0\HtmlAgilityPack.NetCore.dll
+D:\Unik\SoftwareDesign\lab_02\obj\Debug\net7.0\lab_02.csproj.CopyComplete
