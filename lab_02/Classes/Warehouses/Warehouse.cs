@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace lab_02.Classes.Warehouses
 {
-    public abstract class Warehouse
+    public abstract class Warehouse//Open-closed principle: inherited classes can expand this class without changing in abstraction
     {
         public ICurrency? Currency { get; set; }
         public List<Product> Products { get; set; } = new();

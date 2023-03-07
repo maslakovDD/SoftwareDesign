@@ -8,7 +8,8 @@ using System.Threading.Tasks;
 
 namespace lab_02.Classes.WarehouseManagers
 {
-    public class WarehouseManager : IWarehouseManager
+    //Single responsibiliry principle: class can only manage warehouse
+    public class WarehouseManager : IWarehouseManager 
     {
         private List<Product> _products { set; get; }
         private Warehouse _warehouse { get; set; }

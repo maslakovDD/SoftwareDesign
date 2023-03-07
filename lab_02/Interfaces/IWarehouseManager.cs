@@ -7,7 +7,7 @@ using lab_02.Classes;
 
 namespace lab_02.Interfaces
 {
-    public interface IWarehouseManager
+    public interface IWarehouseManager//Interface segregation principle: this interface contains methods for warehouse managment and IWarehouseInfoManager has methods for getting warehouse info
     {
         public Product AddProduct(Product product);
         public Product RemoveProduct(Product product);

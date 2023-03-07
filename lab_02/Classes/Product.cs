@@ -14,7 +14,7 @@ namespace lab_02.Classes
         public string Name { get; set; }
         public string? Description { get; set; }
         public string Category { get; set; }
-        public ICurrency Price { get; set; }
+        public ICurrency Price { get; set; } // Liskov substitution principle: field has type ICurrency, but instance can has any type of implemetned classes and dependency inversion principle
         public string Measurement { get; set; }
         public Product(string name, string category, ICurrency price, string measurement, string? descriptioin = null)
         {
