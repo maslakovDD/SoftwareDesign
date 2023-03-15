@@ -1,0 +1,15 @@
+D:\Unik\SoftwareDesign\lab_03\Prototype\bin\Debug\net7.0\Prototype.exe
+D:\Unik\SoftwareDesign\lab_03\Prototype\bin\Debug\net7.0\Prototype.deps.json
+D:\Unik\SoftwareDesign\lab_03\Prototype\bin\Debug\net7.0\Prototype.runtimeconfig.json
+D:\Unik\SoftwareDesign\lab_03\Prototype\bin\Debug\net7.0\Prototype.dll
+D:\Unik\SoftwareDesign\lab_03\Prototype\bin\Debug\net7.0\Prototype.pdb
+D:\Unik\SoftwareDesign\lab_03\Prototype\obj\Debug\net7.0\Prototype.csproj.AssemblyReference.cache
+D:\Unik\SoftwareDesign\lab_03\Prototype\obj\Debug\net7.0\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unik\SoftwareDesign\lab_03\Prototype\obj\Debug\net7.0\Prototype.AssemblyInfoInputs.cache
+D:\Unik\SoftwareDesign\lab_03\Prototype\obj\Debug\net7.0\Prototype.AssemblyInfo.cs
+D:\Unik\SoftwareDesign\lab_03\Prototype\obj\Debug\net7.0\Prototype.csproj.CoreCompileInputs.cache
+D:\Unik\SoftwareDesign\lab_03\Prototype\obj\Debug\net7.0\Prototype.dll
+D:\Unik\SoftwareDesign\lab_03\Prototype\obj\Debug\net7.0\refint\Prototype.dll
+D:\Unik\SoftwareDesign\lab_03\Prototype\obj\Debug\net7.0\Prototype.pdb
+D:\Unik\SoftwareDesign\lab_03\Prototype\obj\Debug\net7.0\Prototype.genruntimeconfig.cache
+D:\Unik\SoftwareDesign\lab_03\Prototype\obj\Debug\net7.0\ref\Prototype.dll

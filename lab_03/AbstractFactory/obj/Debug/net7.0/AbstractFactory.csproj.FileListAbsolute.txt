@@ -1,0 +1,15 @@
+D:\Unik\SoftwareDesign\lab_03\AbstractFactory\bin\Debug\net7.0\AbstractFactory.exe
+D:\Unik\SoftwareDesign\lab_03\AbstractFactory\bin\Debug\net7.0\AbstractFactory.deps.json
+D:\Unik\SoftwareDesign\lab_03\AbstractFactory\bin\Debug\net7.0\AbstractFactory.runtimeconfig.json
+D:\Unik\SoftwareDesign\lab_03\AbstractFactory\bin\Debug\net7.0\AbstractFactory.dll
+D:\Unik\SoftwareDesign\lab_03\AbstractFactory\bin\Debug\net7.0\AbstractFactory.pdb
+D:\Unik\SoftwareDesign\lab_03\AbstractFactory\obj\Debug\net7.0\AbstractFactory.csproj.AssemblyReference.cache
+D:\Unik\SoftwareDesign\lab_03\AbstractFactory\obj\Debug\net7.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unik\SoftwareDesign\lab_03\AbstractFactory\obj\Debug\net7.0\AbstractFactory.AssemblyInfoInputs.cache
+D:\Unik\SoftwareDesign\lab_03\AbstractFactory\obj\Debug\net7.0\AbstractFactory.AssemblyInfo.cs
+D:\Unik\SoftwareDesign\lab_03\AbstractFactory\obj\Debug\net7.0\AbstractFactory.csproj.CoreCompileInputs.cache
+D:\Unik\SoftwareDesign\lab_03\AbstractFactory\obj\Debug\net7.0\AbstractFactory.dll
+D:\Unik\SoftwareDesign\lab_03\AbstractFactory\obj\Debug\net7.0\refint\AbstractFactory.dll
+D:\Unik\SoftwareDesign\lab_03\AbstractFactory\obj\Debug\net7.0\AbstractFactory.pdb
+D:\Unik\SoftwareDesign\lab_03\AbstractFactory\obj\Debug\net7.0\AbstractFactory.genruntimeconfig.cache
+D:\Unik\SoftwareDesign\lab_03\AbstractFactory\obj\Debug\net7.0\ref\AbstractFactory.dll

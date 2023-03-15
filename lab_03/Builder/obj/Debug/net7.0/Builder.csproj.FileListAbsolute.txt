@@ -1,0 +1,15 @@
+D:\Unik\SoftwareDesign\lab_03\Builder\bin\Debug\net7.0\Builder.exe
+D:\Unik\SoftwareDesign\lab_03\Builder\bin\Debug\net7.0\Builder.deps.json
+D:\Unik\SoftwareDesign\lab_03\Builder\bin\Debug\net7.0\Builder.runtimeconfig.json
+D:\Unik\SoftwareDesign\lab_03\Builder\bin\Debug\net7.0\Builder.dll
+D:\Unik\SoftwareDesign\lab_03\Builder\bin\Debug\net7.0\Builder.pdb
+D:\Unik\SoftwareDesign\lab_03\Builder\obj\Debug\net7.0\Builder.csproj.AssemblyReference.cache
+D:\Unik\SoftwareDesign\lab_03\Builder\obj\Debug\net7.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unik\SoftwareDesign\lab_03\Builder\obj\Debug\net7.0\Builder.AssemblyInfoInputs.cache
+D:\Unik\SoftwareDesign\lab_03\Builder\obj\Debug\net7.0\Builder.AssemblyInfo.cs
+D:\Unik\SoftwareDesign\lab_03\Builder\obj\Debug\net7.0\Builder.csproj.CoreCompileInputs.cache
+D:\Unik\SoftwareDesign\lab_03\Builder\obj\Debug\net7.0\Builder.dll
+D:\Unik\SoftwareDesign\lab_03\Builder\obj\Debug\net7.0\refint\Builder.dll
+D:\Unik\SoftwareDesign\lab_03\Builder\obj\Debug\net7.0\Builder.pdb
+D:\Unik\SoftwareDesign\lab_03\Builder\obj\Debug\net7.0\Builder.genruntimeconfig.cache
+D:\Unik\SoftwareDesign\lab_03\Builder\obj\Debug\net7.0\ref\Builder.dll

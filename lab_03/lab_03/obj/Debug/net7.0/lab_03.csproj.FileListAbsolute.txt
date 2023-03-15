@@ -1,0 +1,15 @@
+D:\Unik\SoftwareDesign\lab_03\lab_03\bin\Debug\net7.0\lab_03.exe
+D:\Unik\SoftwareDesign\lab_03\lab_03\bin\Debug\net7.0\lab_03.deps.json
+D:\Unik\SoftwareDesign\lab_03\lab_03\bin\Debug\net7.0\lab_03.runtimeconfig.json
+D:\Unik\SoftwareDesign\lab_03\lab_03\bin\Debug\net7.0\lab_03.dll
+D:\Unik\SoftwareDesign\lab_03\lab_03\bin\Debug\net7.0\lab_03.pdb
+D:\Unik\SoftwareDesign\lab_03\lab_03\obj\Debug\net7.0\lab_03.csproj.AssemblyReference.cache
+D:\Unik\SoftwareDesign\lab_03\lab_03\obj\Debug\net7.0\lab_03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unik\SoftwareDesign\lab_03\lab_03\obj\Debug\net7.0\lab_03.AssemblyInfoInputs.cache
+D:\Unik\SoftwareDesign\lab_03\lab_03\obj\Debug\net7.0\lab_03.AssemblyInfo.cs
+D:\Unik\SoftwareDesign\lab_03\lab_03\obj\Debug\net7.0\lab_03.csproj.CoreCompileInputs.cache
+D:\Unik\SoftwareDesign\lab_03\lab_03\obj\Debug\net7.0\lab_03.dll
+D:\Unik\SoftwareDesign\lab_03\lab_03\obj\Debug\net7.0\refint\lab_03.dll
+D:\Unik\SoftwareDesign\lab_03\lab_03\obj\Debug\net7.0\lab_03.pdb
+D:\Unik\SoftwareDesign\lab_03\lab_03\obj\Debug\net7.0\lab_03.genruntimeconfig.cache
+D:\Unik\SoftwareDesign\lab_03\lab_03\obj\Debug\net7.0\ref\lab_03.dll

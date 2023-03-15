@@ -1,0 +1,15 @@
+D:\Unik\SoftwareDesign\lab_03\Singleton\bin\Debug\net7.0\Singleton.exe
+D:\Unik\SoftwareDesign\lab_03\Singleton\bin\Debug\net7.0\Singleton.deps.json
+D:\Unik\SoftwareDesign\lab_03\Singleton\bin\Debug\net7.0\Singleton.runtimeconfig.json
+D:\Unik\SoftwareDesign\lab_03\Singleton\bin\Debug\net7.0\Singleton.dll
+D:\Unik\SoftwareDesign\lab_03\Singleton\bin\Debug\net7.0\Singleton.pdb
+D:\Unik\SoftwareDesign\lab_03\Singleton\obj\Debug\net7.0\Singleton.csproj.AssemblyReference.cache
+D:\Unik\SoftwareDesign\lab_03\Singleton\obj\Debug\net7.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unik\SoftwareDesign\lab_03\Singleton\obj\Debug\net7.0\Singleton.AssemblyInfoInputs.cache
+D:\Unik\SoftwareDesign\lab_03\Singleton\obj\Debug\net7.0\Singleton.AssemblyInfo.cs
+D:\Unik\SoftwareDesign\lab_03\Singleton\obj\Debug\net7.0\Singleton.csproj.CoreCompileInputs.cache
+D:\Unik\SoftwareDesign\lab_03\Singleton\obj\Debug\net7.0\Singleton.dll
+D:\Unik\SoftwareDesign\lab_03\Singleton\obj\Debug\net7.0\refint\Singleton.dll
+D:\Unik\SoftwareDesign\lab_03\Singleton\obj\Debug\net7.0\Singleton.pdb
+D:\Unik\SoftwareDesign\lab_03\Singleton\obj\Debug\net7.0\Singleton.genruntimeconfig.cache
+D:\Unik\SoftwareDesign\lab_03\Singleton\obj\Debug\net7.0\ref\Singleton.dll
