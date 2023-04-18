@@ -1,0 +1,7 @@
+Just a error
+Just a log
+Warn! Just a warn
+Error! Just a error
+Just a log
+Warn! Just a warn
+Error! Just a error

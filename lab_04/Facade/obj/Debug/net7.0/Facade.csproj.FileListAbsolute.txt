@@ -1,0 +1,15 @@
+D:\Unik\SoftwareDesign\lab_04\Facade\bin\Debug\net7.0\Facade.exe
+D:\Unik\SoftwareDesign\lab_04\Facade\bin\Debug\net7.0\Facade.deps.json
+D:\Unik\SoftwareDesign\lab_04\Facade\bin\Debug\net7.0\Facade.runtimeconfig.json
+D:\Unik\SoftwareDesign\lab_04\Facade\bin\Debug\net7.0\Facade.dll
+D:\Unik\SoftwareDesign\lab_04\Facade\bin\Debug\net7.0\Facade.pdb
+D:\Unik\SoftwareDesign\lab_04\Facade\obj\Debug\net7.0\Facade.csproj.AssemblyReference.cache
+D:\Unik\SoftwareDesign\lab_04\Facade\obj\Debug\net7.0\Facade.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unik\SoftwareDesign\lab_04\Facade\obj\Debug\net7.0\Facade.AssemblyInfoInputs.cache
+D:\Unik\SoftwareDesign\lab_04\Facade\obj\Debug\net7.0\Facade.AssemblyInfo.cs
+D:\Unik\SoftwareDesign\lab_04\Facade\obj\Debug\net7.0\Facade.csproj.CoreCompileInputs.cache
+D:\Unik\SoftwareDesign\lab_04\Facade\obj\Debug\net7.0\Facade.dll
+D:\Unik\SoftwareDesign\lab_04\Facade\obj\Debug\net7.0\refint\Facade.dll
+D:\Unik\SoftwareDesign\lab_04\Facade\obj\Debug\net7.0\Facade.pdb
+D:\Unik\SoftwareDesign\lab_04\Facade\obj\Debug\net7.0\Facade.genruntimeconfig.cache
+D:\Unik\SoftwareDesign\lab_04\Facade\obj\Debug\net7.0\ref\Facade.dll

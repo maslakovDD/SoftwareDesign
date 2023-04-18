@@ -1,0 +1,15 @@
+D:\Unik\SoftwareDesign\lab_04\Adapter\bin\Debug\net7.0\Adapter.exe
+D:\Unik\SoftwareDesign\lab_04\Adapter\bin\Debug\net7.0\Adapter.deps.json
+D:\Unik\SoftwareDesign\lab_04\Adapter\bin\Debug\net7.0\Adapter.runtimeconfig.json
+D:\Unik\SoftwareDesign\lab_04\Adapter\bin\Debug\net7.0\Adapter.dll
+D:\Unik\SoftwareDesign\lab_04\Adapter\bin\Debug\net7.0\Adapter.pdb
+D:\Unik\SoftwareDesign\lab_04\Adapter\obj\Debug\net7.0\Adapter.csproj.AssemblyReference.cache
+D:\Unik\SoftwareDesign\lab_04\Adapter\obj\Debug\net7.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unik\SoftwareDesign\lab_04\Adapter\obj\Debug\net7.0\Adapter.AssemblyInfoInputs.cache
+D:\Unik\SoftwareDesign\lab_04\Adapter\obj\Debug\net7.0\Adapter.AssemblyInfo.cs
+D:\Unik\SoftwareDesign\lab_04\Adapter\obj\Debug\net7.0\Adapter.csproj.CoreCompileInputs.cache
+D:\Unik\SoftwareDesign\lab_04\Adapter\obj\Debug\net7.0\Adapter.dll
+D:\Unik\SoftwareDesign\lab_04\Adapter\obj\Debug\net7.0\refint\Adapter.dll
+D:\Unik\SoftwareDesign\lab_04\Adapter\obj\Debug\net7.0\Adapter.pdb
+D:\Unik\SoftwareDesign\lab_04\Adapter\obj\Debug\net7.0\Adapter.genruntimeconfig.cache
+D:\Unik\SoftwareDesign\lab_04\Adapter\obj\Debug\net7.0\ref\Adapter.dll
